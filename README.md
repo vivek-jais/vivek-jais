@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Vivek+Jaiswal;Full+Stack+Engineer;Gen+AI+Integration+Specialist;NIT+Delhi+%7C+CS+Undergrad" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Vivek;Full+Stack+Engineer;" alt="Typing SVG" />
 
 <br/>
 
@@ -22,7 +22,7 @@ const vivek = {
   degree      : "B.Tech — Computer Science & Engineering",
   role        : "Full Stack Web Developer",
   focus       : "Integrating Gen AI to build impactful solutions",
-  location    : "Delhi, India 📍",
+  location    : "Delhi, India ",
   openTo      : ["Full Stack Roles", "AI/ML Projects", "Open Source"],
   contact     : "vivekjaiswalcode@gmail.com"
 };
@@ -42,16 +42,7 @@ const vivek = {
 
 ---
 
-## 🏆 Coding Platforms
 
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vivek-jais)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/vivek-jais)
-[![InterviewBit](https://img.shields.io/badge/InterviewBit-007EC6?style=for-the-badge&logo=interviewbit&logoColor=white)](https://interviewbit.com/profile/vivek-jais)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://hackerearth.com/@vivek-jais)
-
-</div>
 
 ---
 
@@ -179,17 +170,7 @@ const vivek = {
 
 ---
 
-## 🎯 What I'm Working On
 
-| Area | Details |
-|------|---------|
-| 🤖 Gen AI Integration | Building LLM-powered features in production apps |
-| 🏗️ Full Stack Dev | Scalable apps with Next.js + Node.js + TypeScript |
-| 🔐 Backend Architecture | REST APIs, WebSockets, JWT auth, microservices |
-| ☁️ Cloud Native | Firebase, Supabase, serverless deployments |
-| 📱 Mobile | Cross-platform with React Native |
-
----
 
 ## 👁️ Profile Visitors
 
